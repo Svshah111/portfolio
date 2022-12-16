@@ -702,6 +702,9 @@ section {
   header {
     padding: 0 !important;
   }
+  .btn-con{
+    margin:-1rem;
+  }
 
   .theme-btn {
     width: 50px;
