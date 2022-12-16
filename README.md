@@ -1,3 +1,3 @@
 # portfolio
 
-html,css and javascritp
+This PorFolio Website is developed by HTML, CSS, JavaScript.
